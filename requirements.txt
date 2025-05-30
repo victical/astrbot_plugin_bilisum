@@ -1,0 +1,3 @@
+aiohttp>=3.8.0
+bilibili-api-python>=15.0.0
+requests>=2.31.0 
