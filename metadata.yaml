@@ -1,5 +1,6 @@
 name: astrbot_plugin_bilisum # 这是你的插件的唯一识别名。
 desc: bot点评b站视频的插件 # 插件简短描述
+help:  # 插件的帮助信息
 version: v0.0.7
 author: Victical # 作者
 repo: https://github.com/victical/astrbot_plugin_bilisum # 插件的仓库地址
