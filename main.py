@@ -33,7 +33,7 @@ async def bili_request(url, return_json=True):
     except (httpx.HTTPError, httpx.RequestError) as e:
         return {"code": -400, "message": str(e)}
 
-@register("bilisum", "victical", "B站视频字幕下载插件", "1.0.2", "https://github.com/victical/astrbot_plugin_bilisum")
+@register("bilisum", "victical", "B站视频点评插件", "0.07", "https://github.com/victical/astrbot_plugin_bilisum")
 class BiliSumPlugin(Star):
     def __init__(self, context: Context, config: dict):
         super().__init__(context)
