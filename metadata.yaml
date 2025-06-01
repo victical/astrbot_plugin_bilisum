@@ -1,6 +1,5 @@
 name: astrbot_plugin_bilisum # 这是你的插件的唯一识别名。
-desc: bot看b站视频 # 插件简短描述
-help: 使用LLM调用函数点评视频。 # 插件的帮助信息
+desc: bot点评b站视频的插件 # 插件简短描述
 version: v0.0.7
 author: Victical # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+repo: https://github.com/victical/astrbot_plugin_bilisum # 插件的仓库地址
