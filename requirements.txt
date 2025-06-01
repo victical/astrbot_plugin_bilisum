@@ -1,8 +1,6 @@
-bilibili-api-python==16.1.0
+#bilibili-api-python==16.1.0
 ratelimit==2.2.1
-requests~=2.31.0
-scipy==1.7.3
-browser_cookie3==0.19.1
+httpx~=0.24.0
 bcut-asr==0.0.3
 # 系统依赖（需手动安装）:
 # Windows: winget install ffmpeg
